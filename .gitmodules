@@ -1,0 +1,3 @@
+[submodule "NonsensicalKit"]
+	path = Assets/NonsensicalKit
+	url = https://github.com/DonnieBean/NonsensicalKit.git
