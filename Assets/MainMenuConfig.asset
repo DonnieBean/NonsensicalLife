@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f315fe8f6e6f974cba8a03628b882f0, type: 3}
+  m_Name: MainMenuConfig
+  m_EditorClassIdentifier: 
+  data:
+    ConfigID: test
+    datas:
+    - name: "\u4FC4\u7F57\u65AF\u65B9\u5757"
+      previewPath: 1
+      sceneName: Tetris
+    - name: Empty 2
+      previewPath: 2
+      sceneName: Empty
+    - name: Empty 3
+      previewPath: 3
+      sceneName: Empty
+    - name: Empty 4
+      previewPath: 4
+      sceneName: Empty
+    - name: Empty 5
+      previewPath: 5
+      sceneName: Empty
+    - name: Empty 6
+      previewPath: 6
+      sceneName: Empty
+    - name: Empty 7
+      previewPath: 7
+      sceneName: Empty
+    - name: Empty 8
+      previewPath: 8
+      sceneName: Empty
+    - name: Empty 9
+      previewPath: 9
+      sceneName: Empty

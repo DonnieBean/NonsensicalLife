@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitScene.unity
+    guid: c99ee113c3592f74c86ab2a6f8926961
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 5b9438ea86a697347bf260718b7b3c6a
+  - enabled: 1
+    path: Assets/Scenes/Empty.unity
+    guid: 3e3925691f3a5a34b9bbd9fb3b588e08
+  - enabled: 1
+    path: Assets/Tetris/Tetris.unity
+    guid: 54b295f52d66547488d0cd37c47449cb
+  m_configObjects: {}
