@@ -18,9 +18,9 @@ MonoBehaviour:
     - name: "\u4FC4\u7F57\u65AF\u65B9\u5757"
       previewPath: 1
       sceneName: Tetris
-    - name: Empty 2
-      previewPath: 2
-      sceneName: Empty
+    - name: "\u63A8\u7BB1\u5B50"
+      previewPath: sokoban
+      sceneName: Sokoban
     - name: Empty 3
       previewPath: 3
       sceneName: Empty
